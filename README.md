@@ -36,3 +36,20 @@ debian@debian:~/netology/tempy/04/src$ docker run --rm -v "$(pwd):/tflint" ghcr.
   
 https://github.com/ufilin/ter-homeworks-04.git  
   
+> Ошибка доступа к state
+
+<p align="center">
+  <img src="ter-05_1.5.png" width="800">
+</p>
+
+> Снятие блокировки с state
+
+<p align="center">
+  <img src="ter-05_1.6.png" width="800">
+</p>
+
+
+
+
+
+
