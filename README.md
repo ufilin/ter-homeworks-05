@@ -31,3 +31,8 @@ debian@debian:~/netology/tempy/04/src$ docker run --rm -v "$(pwd):/tflint" ghcr.
 <p align="center">
   <img src="ter-05_1.4.png" width="800">
 </p>
+
+> Commit to GIT()
+  
+https://github.com/ufilin/ter-homeworks-04.git  
+  
