@@ -14,4 +14,20 @@ debian@debian:~/netology/tempy/04/src$ docker run --rm -v "$(pwd):/tflint" ghcr.
 
 > Вывод использлвания утилиты checkov
   
+## Задание 2
+  
+> Настройка s3, помимо неё ещё есть добавление кредов, но там нет особой настройки, просто доавление ключей
 
+<p align="center">
+  <img src="ter-05_1.2.png" width="800">
+</p>
+
+> Миграция в s3
+
+<p align="center">
+  <img src="ter-05_1.3.png" width="800">
+</p>
+
+<p align="center">
+  <img src="ter-05_1.4.png" width="800">
+</p>
