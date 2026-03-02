@@ -48,6 +48,10 @@ https://github.com/ufilin/ter-homeworks-04.git
   <img src="ter-05_1.6.png" width="800">
 </p>
 
+## Задание 3
+
+https://github.com/ufilin/ter-homeworks-04/pull/2
+
 
 
 
