@@ -56,8 +56,19 @@ https://github.com/ufilin/ter-homeworks-04.git
 </p>
 
 ## Задание 3
+  
+https://github.com/ufilin/ter-homeworks-04/pull/2  
+  
+## Задание 4
+  
+> Через regex выглядит интереснее, но там проверка скорее больше подходит на соответствие условиям адресации IPv4,
+> В конкретном случае предпочёл использовать cidrhost
+  
+<p align="center">
+  <img src="ter-05_1.8.png" width="800">
+</p>
 
-https://github.com/ufilin/ter-homeworks-04/pull/2
+
 
 
 
